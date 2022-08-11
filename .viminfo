@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1660239849,,"wq"
+|2,0,1660241837,,"wq"
 :wq!
 |2,0,1657783502,,"wq!"
 :w
@@ -63,230 +63,293 @@
 |3,1,36,0,1,0,1657904713,"\""
 
 # File marks:
-'0  1  0  ~/0x12-singly_linked_lists/ls
-|4,48,1,0,1660239849,"~/0x12-singly_linked_lists/ls"
-'1  1  0  ~/0x12-singly_linked_lists/
-|4,49,1,0,1660239837,"~/0x12-singly_linked_lists/"
-'2  25  120  ~/0x12-singly_linked_lists/README.md
-|4,50,25,120,1660239804,"~/0x12-singly_linked_lists/README.md"
-'3  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,51,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
-'4  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,52,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
-'5  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,53,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
-'6  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,54,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
-'7  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,55,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
-'8  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,56,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
-'9  2  27  ~/0x01-git/bash/alx
-|4,57,2,27,1657904993,"~/0x01-git/bash/alx"
+'0  7  11  ~/0x12-singly_linked_lists/0-print_list.c
+|4,48,7,11,1660241837,"~/0x12-singly_linked_lists/0-print_list.c"
+'1  7  11  ~/0x12-singly_linked_lists/0-print_list.c
+|4,49,7,11,1660241830,"~/0x12-singly_linked_lists/0-print_list.c"
+'2  13  28  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,50,13,28,1660241758,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+'3  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,51,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+'4  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,52,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+'5  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,53,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+'6  46  0  ~/0x12-singly_linked_lists/2-add_node.c
+|4,54,46,0,1660241567,"~/0x12-singly_linked_lists/2-add_node.c"
+'7  3  0  ~/0x12-singly_linked_lists/1-list_len.c
+|4,55,3,0,1660241505,"~/0x12-singly_linked_lists/1-list_len.c"
+'8  21  0  ~/0x12-singly_linked_lists/lists.h
+|4,56,21,0,1660241351,"~/0x12-singly_linked_lists/lists.h"
+'9  2  14  ~/0x12-singly_linked_lists/0-print_list.c
+|4,57,2,14,1660241297,"~/0x12-singly_linked_lists/0-print_list.c"
 
 # Jumplist (newest first):
--'  1  0  ~/0x12-singly_linked_lists/ls
-|4,39,1,0,1660239849,"~/0x12-singly_linked_lists/ls"
--'  1  0  ~/0x12-singly_linked_lists/
-|4,39,1,0,1660239837,"~/0x12-singly_linked_lists/"
--'  1  0  ~/0x12-singly_linked_lists/
-|4,39,1,0,1660239837,"~/0x12-singly_linked_lists/"
--'  25  120  ~/0x12-singly_linked_lists/README.md
-|4,39,25,120,1660239804,"~/0x12-singly_linked_lists/README.md"
--'  25  120  ~/0x12-singly_linked_lists/README.md
-|4,39,25,120,1660239804,"~/0x12-singly_linked_lists/README.md"
--'  25  120  ~/0x12-singly_linked_lists/README.md
-|4,39,25,120,1660239804,"~/0x12-singly_linked_lists/README.md"
--'  25  120  ~/0x12-singly_linked_lists/README.md
-|4,39,25,120,1660239804,"~/0x12-singly_linked_lists/README.md"
--'  1  0  ~/0x12-singly_linked_lists/README.md
-|4,39,1,0,1660239750,"~/0x12-singly_linked_lists/README.md"
--'  1  0  ~/0x12-singly_linked_lists/README.md
-|4,39,1,0,1660239750,"~/0x12-singly_linked_lists/README.md"
--'  1  0  ~/0x12-singly_linked_lists/README.md
-|4,39,1,0,1660239750,"~/0x12-singly_linked_lists/README.md"
--'  1  0  ~/0x12-singly_linked_lists/README.md
-|4,39,1,0,1660239750,"~/0x12-singly_linked_lists/README.md"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  4  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,4,1657907117,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  14  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,2,14,1657906910,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906896,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  1  0  ~/alx-zero_day/0x01-git/bash/alx
-|4,39,1,0,1657906832,"~/alx-zero_day/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
--'  2  27  ~/0x01-git/bash/alx
-|4,39,2,27,1657904993,"~/0x01-git/bash/alx"
+-'  7  11  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,7,11,1660241837,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  7  11  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,7,11,1660241830,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  2  14  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,2,14,1660241791,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  2  14  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,2,14,1660241791,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  13  28  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,13,28,1660241758,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  13  28  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,13,28,1660241758,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  13  28  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,13,28,1660241758,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  13  28  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,13,28,1660241758,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  1  0  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,1,0,1660241704,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  1  0  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,1,0,1660241704,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  1  0  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,1,0,1660241704,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  1  0  ~/0x12-singly_linked_lists/101-hello_holberton.asm
+|4,39,1,0,1660241704,"~/0x12-singly_linked_lists/101-hello_holberton.asm"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  14  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,14,0,1660241687,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  1  0  ~/0x12-singly_linked_lists/100-first.c
+|4,39,1,0,1660241667,"~/0x12-singly_linked_lists/100-first.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,23,0,1660241651,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660241623,"~/0x12-singly_linked_lists/4-free_list.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  54  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,54,0,1660241609,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660241584,"~/0x12-singly_linked_lists/3-add_node_end.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x12-singly_linked_lists/0-print_list.c
+	*	1660241836	0
+	"	7	11
+	^	7	12
+	.	7	11
+	+	8	1
+	+	6	11
+	+	6	38
+	+	21	0
+	+	2	14
+	+	7	11
+
+> ~/0x12-singly_linked_lists/101-hello_holberton.asm
+	*	1660241757	0
+	"	13	28
+	^	13	29
+	.	13	28
+	+	1	0
+	+	13	28
+
+> ~/0x12-singly_linked_lists/100-first.c
+	*	1660241686	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/0x12-singly_linked_lists/4-free_list.c
+	*	1660241649	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
+
+> ~/0x12-singly_linked_lists/3-add_node_end.c
+	*	1660241608	0
+	"	54	0
+	^	54	1
+	.	54	0
+	+	54	0
+
+> ~/0x12-singly_linked_lists/2-add_node.c
+	*	1660241566	0
+	"	46	0
+	^	46	1
+	.	46	0
+	+	46	0
+
+> ~/0x12-singly_linked_lists/1-list_len.c
+	*	1660241503	0
+	"	3	0
+	^	3	1
+	.	18	0
+	+	1	21
+	+	18	0
+
+> ~/0x12-singly_linked_lists/lists.h
+	*	1660241348	0
+	"	21	0
+	^	21	0
+	.	29	21
+	+	29	21
 
 > ~/0x12-singly_linked_lists/ls
 	*	1660239848	0
